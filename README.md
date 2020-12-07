@@ -1,6 +1,6 @@
 # STHAL-Location-mention-Identification-in-Tweets-of-Indian-context
 
-This is an official project repository of STHAL: Location mention Identification in Tweets of Indian context application built on the concept of **Named Entity Recognition**. As a result of our work, we prepare a publicly-available annotated  dataset  of  Indian  geolocations  that can be used by the research comm
+This is an official project repository of STHAL: Location mention Identification in Tweets of Indian context application built on the concept of **Named Entity Recognition**. As a result of our work, we prepare a publicly-available annotated  dataset  of  Indian  geolocations  that can be used by the research community.
 
 The project is maintained by [Shobhit Sinha](https://github.com/Shobhs13), [Kartik Verma](https://github.com/vkartik2k). 
 
